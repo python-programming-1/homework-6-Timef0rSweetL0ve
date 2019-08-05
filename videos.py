@@ -1,6 +1,5 @@
 import csv
 import pprint
-import re
 
 
 def get_video_data():
